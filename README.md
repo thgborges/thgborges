@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Thiago Borges</h1>
 
 <p align="center">
-  Tech Lead | Data Engineer | Web3 Builder
+  Tech Lead | Data Engineer | Big Data | Lakehouse | Warehouse | Blockchain | web3 | Business Intelligence | ETL/ELT
 </p>
 
 <p align="center">
