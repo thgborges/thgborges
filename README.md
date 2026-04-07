@@ -53,6 +53,18 @@ Plataforma de ingressos digitais via NFT.
 
 ---
 
+### 🤖 DataTalk
+Plataforma SaaS que permite usuários "conversarem com seus dados" através de linguagem natural.
+
+🔹 Conversão de perguntas em queries SQL automaticamente  
+🔹 Integração com múltiplos sistemas (CRM, ERP, etc.)  
+🔹 Chatbot inteligente baseado em metadados  
+🔹 Arquitetura multi-tenant para empresas  
+
+➡️ Foco: Data + IA + SaaS
+
+---
+
 ## 🧠 Stack Tecnológica
 
 ### 🔹 Data & Backend
