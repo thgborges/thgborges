@@ -57,8 +57,11 @@ Plataforma de ingressos digitais via NFT.
 IDE Web3 leve para deploy de smart contracts.
 
 🔹 Compilação de contratos Solidity no navegador
+
 🔹 Deploy direto via MetaMask (Injected Provider)
+
 🔹 Integração com testnet Ethereum (Sepolia)
+
 🔹 Interface simples inspirada no Remix IDE
 
 ➡️ Foco: DevTools + Web3 🚀
