@@ -63,6 +63,8 @@ IDE Web3 leve para deploy de smart contracts.
 
 ➡️ Foco: DevTools + Web3 🚀
 
+www.litemix.dev
+
 ---
 
 ### 🤖 DataTalk
