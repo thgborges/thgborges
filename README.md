@@ -89,34 +89,44 @@ https://github.com/thgborges/datatalk
 
 ## 🧠 Stack Tecnológica
 
-### 🔹 Data & Backend
+## 🔹 Data & Backend
 - Node.js
 - Python
 - Shell Script
-- APIs REST
+- REST APIs
 
-### 🔹 Data Engineering
-- AWS
-- Spark
+## 🔹 Data Engineering
+- Apache Airflow (Orchestration)
+- Apache Spark
+- AWS (Glue, Lambda, S3, Athena)
 - Terraform
 - PowerCenter
 - DataStage
-- SQOOP
+- Sqoop
 
-### 🔹 Bancos de Dados
+## 🔹 Databases
 - Oracle
 - Teradata
 - SQL Server
-- Postgres
+- PostgreSQL
 - MySQL
 - MongoDB
 - HBase
 
-### 🔹 Web3
+## 🔹 DevOps & Infrastructure
+- Docker
+- CI/CD (Jenkins, GitHub Actions)
+
+## 🔹 Data Analysis & Processing
+- Pandas
+- NumPy
+
+## 🔹 Web3
 - Solidity
 - Web3.js / Ethers.js
+- Hardhat
 - MetaMask
-- Blockchain (mainnet / testnet)
+- Blockchain (Mainnet / Testnet)
 
 ---
 
