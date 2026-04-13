@@ -39,6 +39,8 @@ Plataforma de prescrição médica em blockchain.
 
 ➡️ Foco: HealthTech + Web3
 
+https://github.com/thgborges/ChainMed
+
 ---
 
 ### 🎟️ NFTicket
@@ -50,6 +52,8 @@ Plataforma de ingressos digitais via NFT.
 🔹 Base para economia de eventos Web3  
 
 ➡️ Foco: Eventos + Tokenização
+
+https://github.com/thgborges/NFTicket
 
 ---
 
@@ -63,6 +67,7 @@ IDE Web3 leve para deploy de smart contracts.
 
 ➡️ Foco: DevTools + Web3 🚀
 
+https://github.com/thgborges/litemix
 www.litemix.dev
 
 ---
@@ -76,6 +81,8 @@ Plataforma SaaS que permite usuários "conversarem com seus dados" através de l
 🔹 Arquitetura multi-tenant para empresas  
 
 ➡️ Foco: Data + IA + SaaS
+
+https://github.com/thgborges/datatalk
 
 ---
 
