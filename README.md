@@ -107,6 +107,8 @@ https://github.com/thgborges/datatalk
 - Oracle
 - Teradata
 - SQL Server
+- Postgres
+- MySQL
 - MongoDB
 - HBase
 
@@ -114,7 +116,7 @@ https://github.com/thgborges/datatalk
 - Solidity
 - Web3.js / Ethers.js
 - MetaMask
-- Blockchain (Sepolia)
+- Blockchain (mainnet / testnet)
 
 ---
 
