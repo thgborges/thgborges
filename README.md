@@ -96,7 +96,7 @@ https://github.com/thgborges/datatalk
 - REST APIs
 
 ## 🔹 Data Engineering
-- Apache Airflow (Orchestration)
+- Apache Airflow 
 - Apache Spark
 - AWS (Glue, Lambda, S3, Athena)
 - Terraform
