@@ -73,6 +73,23 @@ www.litemix.dev
 
 ---
 
+📜 Certixy
+Plataforma SaaS para emissão de certificados digitais com validação em blockchain.
+
+🔹 Emissão de certificados profissionais em minutos
+🔹 Verificação pública via QR Code e link
+🔹 Registro de autenticidade em blockchain
+🔹 Envio automático por e-mail (PDF profissional)
+🔹 Sem necessidade de wallet ou conhecimento cripto
+
+➡️ Foco: SaaS + EdTech + Web3 (sem fricção) 🚀
+
+https://github.com/thgborges/certixy
+
+www.certixy.com
+
+---
+
 ### 🤖 DataTalk
 Plataforma SaaS que permite usuários "conversarem com seus dados" através de linguagem natural.
 
